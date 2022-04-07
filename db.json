@@ -1,0 +1,65 @@
+[
+
+{ "id":0,
+  "name":"Love in the Big City",
+  "writer":"Sang Young Park",
+  "translated_by": "Anton Hur",
+  "description":"Love in the Big City is a queer Korean love story. It is a tale of hedonism and friendship; a book about looking at life from all angles: with love and hate and anger and fear in our eyes",
+  "img":"https://i.postimg.cc/Dz2gj6bz/love-in-the-big-city-jpeg.webp"
+  
+},
+  
+{ "id":2,
+  "bookname":"The Plotters",
+  "writer":"Un-su Kim",
+  "translated_by":"Sora Kim-Russell",
+  "description":"The Plotters tells the story of Reseng, a successful assassin raised in The Doghouse Library. a library filled with books but empty of people, somewhere in Seoul by an enigmatic old man known as Old Raccoon. Reseng has grown up knowing of nothing but the business of assassination, and curiously also knowing very little about that, either.",
+  "img":"https://i.postimg.cc/DzyNJn65/plotters-674x1024-jpg.webp"
+  
+},
+
+{ "id":3,
+  "bookname":"My Brilliant Life",
+  "writer":"Ae-ran Kim",
+  "translated_by":"Chi-young Kim",
+  "description":"My Brilliant Life tells the story of Areum, a sixteen-year-old boy with a degenerative disease. He is not likely to live much longer, given that he has the internal organs of a man in his eighties.",
+  "img":"https://i.postimg.cc/xjyL7MnJ/my-brilliant-life.webp"
+  
+},
+    
+{ "id":4,
+  "bookname":"The Court Dancer ",
+  "writer":"Kyung-sook Shin",
+  "translated_by":"Anton Hur",
+  "description":"Kyung-Sook Shin has a gift for understanding her own people, her own society, with all of its beauty and its failings — this kind of gift is something that might be considered simple for anyone who is from anywhere at all, but that is arguably very far from the truth. With these skills, she has written some of the best Korean novels ever.",
+  "img":"https://i.postimg.cc/Vk3S5kzP/the-court-dancer.webp"
+},
+
+{ "id":5,
+  "bookname":"Untold Night and Day",
+  "writer":"Bae Suah",
+  "translated_by":"Deborah Smith",
+  "description":" Bae Suah is one of the great contemporary authors of South Korea. Author of A Greater Music, Nowhere to Be Found, and North Station (some of the best Korean novels of all time), she has burst onto the stage that is 2020 with a topsy-turvy surrealist tale that feels uncomfortably in-line with the narrative of the 21st Century.",
+  "img":"https://i.postimg.cc/MpkMpG62/untold.webp"
+  
+},
+{
+  "id":6,
+  "bookname":"b,Book,and Me",
+  "writer":"Kim Sagwa",
+  "translated_by":"Sunhee Jeong",
+  "description": "Coming-of-age novels, and stories of self-discovery, can take a variety of forms across myriad genres of fiction, but most are typically grounded in realism, following the rules of their world.",
+  "img":"https://i.postimg.cc/PfgYPyyR/Sagwa-b-book-galley-cover-390x624-1-jpg.webp"
+  
+},
+
+{ "id":7,
+  "bookname":"The Hole",
+  "writer":"Hye-young Pyun",
+  "translated_by":"Sora Kim-Russell",
+  "description":"The protagonist and narrator of The Hole is the adorably-named Oghi, whom we learn about in two forms:In flashbacks where Oghi is presented as a successful professor and academic in a marriage falling apart. This provides the disparity between Oghi's successes and his wife’s failures which cause an uncomfortable rift between them.And in the present day. We find Oghi after a car crash leaves him unable to move or even speak, only communicating in blinks and the odd twitch of his left hand.",
+  "img":"https://i.postimg.cc/MTGbmGf3/the-hole.webp"
+  
+}
+  
+]
